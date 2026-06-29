@@ -1,7 +1,7 @@
-# Hi there! 👋 I'm a Full-Stack Developer
+# Hi there! 👋 I'm Mohammed Amine Bensebgag
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Frontend+%26+Backend+Expert;Database+Architect;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+%7C+Next.js+%7C+SvelteKit;Node.js+%7C+NestJS+%7C+Prisma;AI+%26+Data+Science+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,24 +12,26 @@
 
 ```javascript
 const developer = {
-    name: "Full-Stack Developer",
-    location: "Worldwide 🌍",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS", "SCSS"],
-    askMeAbout: ["Web Development", "Database Design", "API Architecture"],
+    name: "Mohammed Amine Bensebgag",
+    location: "Algeria 🇩🇿",
+    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+    askMeAbout: ["Full-Stack Development", "API Design", "UI/UX", "AI/ML"],
     technologies: {
         frontEnd: {
-            frameworks: ["React.js", "Next.js", "Angular", "Astro"],
-            styling: ["Tailwind CSS", "SCSS", "CSS3"]
+            frameworks: ["React.js", "Next.js", "SvelteKit", "Astro"],
+            styling: ["Tailwind CSS", "shadcn/ui", "DaisyUI", "Radix UI", "NativeWind"]
         },
         backEnd: {
             runtime: ["Node.js"],
-            frameworks: ["Express.js", "Nest.js"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"],
+            frameworks: ["Express.js", "NestJS"],
+            databases: ["MongoDB", "MySQL", "Supabase"],
             orm: ["Prisma"]
-        }
+        },
+        mobile: ["React Native", "Expo"],
+        devOps: ["Docker", "Git", "GitHub"]
     },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    currentFocus: "Pursuing Master's in AI & Data Science while building full-stack web & mobile apps",
+    funFact: "Built 10+ interactive question types for a startup using SvelteKit! 🚀"
 };
 ```
 
@@ -38,13 +40,13 @@ const developer = {
 <div align="center">
 
 ### Frontend Technologies
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,astro,html,css,scss,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,svelte,astro,html,css,tailwind" />
 
 ### Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mongodb,mysql,postgresql" />
 
 ### Tools & Environment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,yarn,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm,docker" />
 
 </div>
 
@@ -75,14 +77,6 @@ const developer = {
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
       <br>React
     </td>
@@ -91,8 +85,16 @@ const developer = {
       <br>Next.js
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="45" height="45" alt="Angular" />
-      <br>Angular
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="45" height="45" alt="Svelte" />
+      <br>SvelteKit
+    </td>
+    <td align="center" width="90">
+      <img src="https://www.vectorlogo.zone/logos/getastro/getastro-icon.svg" width="45" height="45" alt="Astro" />
+      <br>Astro
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" />
+      <br>Tailwind
     </td>
   </tr>
   <tr>
@@ -119,35 +121,35 @@ const developer = {
   </tr>
   <tr>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma" />
+      <br>Prisma
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-      <br>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React Native" />
+      <br>React Native
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45" alt="SCSS" />
-      <br>SCSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+      <br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://www.vectorlogo.zone/logos/getastro/getastro-icon.svg" width="45" height="45" alt="Astro" />
-      <br>Astro
+      <span style="font-size:12px; font-weight:bold;">Supabase</span>
+      <br><span style="font-size:10px;">(PostgreSQL)</span>
     </td>
   </tr>
 </table>
 
 ## 🎯 Current Focus
 
-- 🔭 Building scalable web applications with modern frameworks
-- 🌱 Exploring new technologies and best practices
-- 👯 Open to collaborate on innovative projects
-- 💬 Ask me about **Full-Stack Development**, **Database Architecture**, or **API Design**
-- ⚡ Fun fact: I believe great code is like a good joke - it needs no explanation!
+- 🔭 Recently shipped a **live landing page + collaborative web app** for **Muthaber** (Oman startup) – featuring 10+ interactive exercise types, auth flows, and bilingual i18n.
+- 🌱 Currently pursuing a **Master's in Artificial Intelligence & Data Science** (Expected 2026/2027) to complement my full-stack expertise.
+- 👯 Open to innovative opportunities – especially in the **Gulf region**.
+- 💬 Ask me about **SvelteKit**, **Astro**, **NestJS**, **Prisma**, or building interactive UI components.
+- ⚡ Fun fact: I speak Arabic natively and enjoy making studying fun through gamified learning apps!
 
 ## 📈 Profile Views & Followers
 
@@ -160,10 +162,10 @@ const developer = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](#)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bensebgag-mohammed-96955625b)
+  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bensebgag)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://bensebgag.dev)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bensebgagmohammed@gmail.com)
   
 </div>
 
@@ -174,5 +176,5 @@ const developer = {
 ---
 
 <div align="center">
-  <i>⭐️ From [bensebgag](https://github.com/bensebgag)</i>
+  <i>⭐️ From <a href="https://github.com/bensebgag">bensebgag</a></i>
 </div>
